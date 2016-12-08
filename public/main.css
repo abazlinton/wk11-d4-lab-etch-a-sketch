@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+#main-canvas {
+  /*border: 1px solid black;*/
+  position: fixed;
+  margin-left: 147px;
+  width: 703px;
+  margin-top: 145px;
+  height: 504px;
+}
+
+img {
+  position: fixed;
+}
